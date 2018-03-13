@@ -1,0 +1,80 @@
+/*this is a component css*/
+
+.WebCwithSFProps {
+    position: absolute;
+    height: 100vh;
+    width: 100vh;
+}
+
+.alabelProps {
+    position: absolute;
+    top: 13px;
+    left: 5px;
+    height: 15px;
+    width: 11px;
+}
+
+.aProps {
+    position: absolute;
+    top: 13px;
+    left: 62px;
+    height: 20px;
+    width: 36px;
+}
+
+.balabelProps {
+    position: absolute;
+    top: 46px;
+    left: 5px;
+    height: 15px;
+    width: 11px;
+}
+
+.nProps {
+    position: absolute;
+    top: 46px;
+    left: 62px;
+    height: 20px;
+    width: 76px;
+}
+
+.btn_CProps {
+    position: absolute;
+    top: 24px;
+    left: 208px;
+    height: 62px;
+    width: 106px;
+}
+
+.btn_DProps {
+    position: absolute;
+    top: 24px;
+    left: 339px;
+    height: 62px;
+    width: 106px;
+}
+
+.btn_EProps {
+    position: absolute;
+    top: 92px;
+    left: 208px;
+    height: 62px;
+    width: 106px;
+}
+
+.btn_FProps {
+    position: absolute;
+    top: 92px;
+    left: 339px;
+    height: 62px;
+    width: 106px;
+}
+
+.subformProps {
+    position: absolute;
+    top: 176px;
+    left: 88px;
+    height: 249px;
+    width: 313px;
+    border: lightskyblue solid 1px;
+}

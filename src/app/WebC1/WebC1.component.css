@@ -1,0 +1,23 @@
+/*this is a component css*/
+
+.WebC1Props {
+    position: absolute;
+    height: 100vh;
+    width: 100vh;
+}
+
+.label1Props {
+    position: absolute;
+    top: 23px;
+    left: 36px;
+    height: 15px;
+    width: 58px;
+}
+
+.mysubform1Props {
+    position: absolute;
+    top: 23px;
+    left: 99px;
+    height: 20px;
+    width: 76px;
+}

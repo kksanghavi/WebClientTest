@@ -1,0 +1,59 @@
+/*this is a component css*/
+
+.BrowseWebClientProps {
+    position: absolute;
+    height: 100vh;
+    width: 100vh;
+}
+
+.Table1Props {
+    position: absolute;
+    top: 25px;
+    left: 43px;
+    height: 104px;
+    width: 240px;
+    height: 800px;
+    overflow-y: scroll;
+    border: lightskyblue solid 1px;
+}
+
+.Table1_table_rowProps {
+    position: relative;
+    height: 19px;
+    flex-direction: row;
+    display: flex;
+}
+
+.Table1_table_rowProps:hover {
+    background-color: #EEEEEE;
+}
+
+.selected {
+    background: #F5F5F5;
+}
+
+.tmpID0Props {
+    position: relative;
+    width: 38px;
+}
+
+.tmpID1Props {
+    position: absolute;
+    top: 42px;
+    left: 47px;
+    height: 15px;
+    width: 30px;
+}
+
+.tmpID2Props {
+    position: relative;
+    width: 38px;
+}
+
+.tmpID3Props {
+    position: absolute;
+    top: 42px;
+    left: 85px;
+    height: 15px;
+    width: 30px;
+}

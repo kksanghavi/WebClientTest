@@ -1,0 +1,23 @@
+/*this is a component css*/
+
+.WebClientCalledProps {
+    position: absolute;
+    height: 100vh;
+    width: 100vh;
+}
+
+.Label_qProps {
+    position: absolute;
+    top: 25px;
+    left: 42px;
+    height: 15px;
+    width: 8px;
+}
+
+.AProps {
+    position: absolute;
+    top: 25px;
+    left: 55px;
+    height: 15px;
+    width: 37px;
+}

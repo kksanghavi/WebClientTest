@@ -1,0 +1,62 @@
+<form
+    novalidate
+    [formGroup]="screenFormGroup"
+>
+    <div
+        magic="WebCwithSF"
+        class="WebCwithSFProps"
+    >
+        <label
+            magic="alabel"
+            class="alabelProps"
+        >
+            a:
+            </label>
+            <input
+                type="text"
+                formControlName="a"
+                magic="a"
+                class="aProps"
+            />
+            <label
+                magic="balabel"
+                class="balabelProps"
+            >
+                n:
+                </label>
+                <input
+                    type="text"
+                    formControlName="n"
+                    magic="n"
+                    class="nProps"
+                    [placeholder]="mgGetPlaceholder('n')"
+                />
+                <input
+                    type="button"
+                    magic="btn_C"
+                    class="btn_CProps mgColor5"
+                />
+                <input
+                    type="button"
+                    magic="btn_D"
+                    class="btn_DProps mgColor5"
+                />
+                <input
+                    type="button"
+                    magic="btn_E"
+                    class="btn_EProps mgColor5"
+                />
+                <input
+                    type="button"
+                    magic="btn_F"
+                    class="btn_FProps mgColor5"
+                />
+                <ndc-dynamic
+                    magic="subform"
+                    class="subformProps"
+                    [ndcDynamicComponent]="mgGetComp('subform')"
+                    [ndcDynamicInputs]="mgGetParameters('subform')"
+                >
+                    </ndc-dynamic>
+                    </div>
+                    </form>

@@ -1,0 +1,47 @@
+/*this is a component css*/
+
+.WebClientProps {
+    position: absolute;
+    height: 100vh;
+    width: 100vh;
+}
+
+.Label_aProps {
+    position: absolute;
+    top: 53px;
+    left: 86px;
+    height: 15px;
+    width: 8px;
+}
+
+.AProps {
+    position: absolute;
+    top: 53px;
+    left: 99px;
+    height: 15px;
+    width: 37px;
+}
+
+.Label_bProps {
+    position: absolute;
+    top: 75px;
+    left: 86px;
+    height: 15px;
+    width: 8px;
+}
+
+.BProps {
+    position: absolute;
+    top: 75px;
+    left: 99px;
+    height: 15px;
+    width: 37px;
+}
+
+.btn_ctrl_1Props {
+    position: absolute;
+    top: 108px;
+    left: 92px;
+    height: 22px;
+    width: 41px;
+}

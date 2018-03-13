@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "path": "WebClient/",
+      "name": "WebClient"
+    },
+    {
+      "path": "WebClientCalled/",
+      "name": "WebClientCalled"
+    },
+    {
+      "path": "BrowseWebClient/",
+      "name": "BrowseWebClient"
+    },
+    {
+      "path": "WebCwithSF/",
+      "name": "WebCwithSF"
+    },
+    {
+      "path": "WebC1/",
+      "name": "WebC1"
+    },
+    {
+      "path": "WebC2/",
+      "name": "WebC2"
+    }
+  ]
+}
